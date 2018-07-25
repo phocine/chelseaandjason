@@ -5,7 +5,7 @@
       <a href="/#intro"><h1>Chelsea & Jason</h1></a>
       <nav>
         <ul>
-          
+
           <li><a href="/#where">About the Farm</a></li>
           <li><a href="/#details">Wedding Details</a></li>
                     <li><a href="/#four">Camping Info</a></li>
@@ -32,7 +32,7 @@
 
       <!-- Menu -->
         <ul class="menu">
-        
+
         </ul>
 
     </footer>
@@ -90,8 +90,8 @@ html {
 }
 
 .button--green2:hover {
-  color: #fff;
-  background-color: #3b8070;
+  color: #ffffff !important;
+  background-color: #2f6835;
 }
 
 .button--grey {

@@ -3,14 +3,14 @@
 		<!-- Intro -->
 
 			<section id="intro" class="main style1 dark fullscreen">
-				<div class="content">                             
+				<div class="content">
 					<header>
-						<h2>Chelsea & Jason</h2><h3>are getting married</h3>
+						<h2>Chelsea & Jason</h2><h3>are getting married!</h3>
 					</header>
 					<p>Friday, October 5th - Sunday, October 7th, 2018<br>
-Foxtail Community Farm, Greenville, New York 
+Foxtail Community Farm, Greenville, New York
 </a> </p>
-					
+
 				</div>
 			</section>
 
@@ -21,10 +21,10 @@ Foxtail Community Farm, Greenville, New York
 					<header>
 						<h2>Event Details</h2>
 					</header>
-					<p>We’ll be getting married in the woods on a field, in an informal and probably not-entirely-traditional style. Afterward there will be festivities on the grounds with serve-yourself drinks and bbq, lawn games, dancing, and so much merriment. As the hour gets later we'll have a sizable bonfire, complete with s’mores and toasty bottoms.</p>
+					<p>We’ll be getting married in the woods, in an informal and probably not-entirely-traditional style. Afterward there will be festivities on the grounds with serve-yourself drinks and bbq, lawn games, dancing, and so much merriment. As the hour gets later we'll have a sizable bonfire, complete with s’mores and toasty bottoms.</p>
 						<a href="https://goo.gl/forms/VhGFkgeedX6JtxNQ2" target=_blank><h3 class="button" target="_blank">RSVP</h3></a>
 				</div>
-				
+
 			</section>
 <img class="mobile-img" src="/images/heroimage.jpg">
 			<!--twomobile-->
@@ -48,7 +48,7 @@ Greenville NY 12083</a></p>
 							<article class="from-right">
 								<a href="/images/chel_path.JPG" class="image fit"><img src="/images/chel_path.JPG" title="The conservatory leads out to the side lawn." alt="" /></a></article>
 </div>
-<strong>About the Location</strong> 
+<strong>About the Location</strong>
 <p>
 	Foxtail Community Farm is an active farm! It’s family owned and operated, with a commitment to sustainability — you’ll even see some of their delicious food on our wedding menu. The campground is off the grid on five acres of beautiful, secluded land. We have the entire place to ourselves! The fantastic owners have been so welcoming to us and are working tirelessly to make our stay wonderful and woodsy.<br>
 
@@ -56,12 +56,12 @@ Greenville NY 12083</a></p>
 </p>
 
 
-<strong>Getting There</strong> 
+<strong>Getting There</strong>
 <p>
 	<ol>
 		<li><em>Parking:</em> There is parking in the main driveway (look for signs), where you’ll be able to park and stage your bags to carry in. </li>
 <li><em>Getting in:</em> It’s a 5-minute walk down a beautiful dirt road. There will be hand-pulled wagons available to tote your gear down to the site. Let us know if any of this will be tough for you and we will be there to help!</li>
-<li><em>Finding your tent / campsite:</em> You’ll get a map with your assigned location marked on it.</li>
+<li><em>Finding your tent / campsite:</em> Upon arrival, you’ll get a map with your assigned location marked on it.</li>
 	</ol>
 
 
@@ -79,26 +79,25 @@ Greenville NY 12083</a></p>
 						<h2>Wedding Information</h2>
 					</header>
 <p>
-					Important note: this is real camping. It’s a walk-in site, with no electricity or running water. There are porta-potties and potable water however. You will get dirty (so don't wear your Manolo Blahniks. DO wear your knock-off Manolo Bleh-niks).</p>
-					<strong>Arrival time options</strong> 
-<p><ol><li>1. Friday after 4pm (camping for the weekend) </li> <li>2. Saturday 11am (camping for Saturday) </li> <li> 3. Saturday 2pm (Just coming for wedding)</li></ol>
-</p>
+					Important note: this is real camping. It’s a walk-in site, with no electricity or running water. There are, however, porta-potties and potable water on site. You'll probably get dirty, but we strongly encourage it.</p>
 
+          <strong>Wedding timeline</strong>
+          <br>
+          <img src="/images/timeline_map.gif" width="600" />
 
 					<p><strong>Dress</strong>
 						<br>
 						"Woods Fancy". That means "business casual" attire that you feel great in, but  also don't mind getting a little mud on. We'll be on grass, so heels aren't recommended, and everything is outside (it's October, it might be chilly). But really, just feel pretty and be comfortable! 
 					</p>
-					
+
 					<p><strong>Children and Pets</strong>
 						<br>
-						Please leave young children & pups with their excited-to-babysit in-laws. Our two dogs will be in attendance; feel free to pack belly rubs. 
+						Please leave young children & pups with their excited-to-babysit in-laws. Our two dogs will be in attendance; feel free to pack belly rubs.
 					</p>
 
 				</div>
-				
+
 			</section>
-<img class="mobile-img" src="/images/Ritball.jpg">
 
 <!-- Four -->
 			<section id="four" class="main style2 left dark fullscreen">
@@ -108,15 +107,14 @@ Greenville NY 12083</a></p>
 					</header>
 				<p><strong>What to Bring</strong>
 						<br>
-					
+
 <ul>
-<li>- Sleeping gear <br>
-(Sleeping pad or air mattress, Pillow, Sleeping bag or sheets and blanket)</li>
+<li>- Sleeping gear (sleeping pad/air mattress, sleeping bag/blanket, pillow)</li>
 <li>- Camp chair</li>
 <li>- Toiletries</li>
 <li>- Water bottle</li>
-<li>- A flashlight</li>
-<li>- Some extra cold-weather clothing (it might get cold at night!)</li>
+<li>- Flashlight</li>
+<li>- Some cold-weather clothing (it might get cold at night!)</li>
 </ul>
 
 
@@ -126,14 +124,14 @@ Greenville NY 12083</a></p>
 						<br>
 						<ul>
 <li>- Lanterns & little flashlights</li>
-<li>- Electronic charging station</li>
+<li>- Electronic charging stations</li>
 <li>- Hammocks </li>
 <li>- All things citronella </li>
-<li>- Tent (Let us know if you don't have your own tent, and we can provide one!)</li>
+<li>- Tent (Let us know if you don't have your own, and we can provide one!)</li>
 					</ul></p>
-					
+
 				</div>
-				
+
 			</section>
 
 		<!-- Contact -->
@@ -141,21 +139,8 @@ Greenville NY 12083</a></p>
 				<div class="content">
 					<header>
 						<h2>Gifts</h2>
-						<p>The main thing we'd like are honeymoon funds so we can take a trip! </p><p>Alternatively, we're registered at <a href="https://www.amazon.com/wedding/share/hippzak" target="_blank">Amazon</a> for the usual lovely bric a brac.</p>
+						<p>Your love and support is all we ask for on our special day. However, if you do wish to celebrate with a gift, we are registered at <a href="https://www.amazon.com/wedding/share/jasonandchelsea" target="_blank">Amazon</a>.</p>
 					</header>
-					<!--<div class="box">
-						<form method="post" action="mailto:martinwdolan@icloud.com">
-							<div class="field half first"><input name="name" placeholder="Name" type="text" /></div>
-							<div class="field half"><input type="email" name="email" placeholder="Email" /></div>
-							<div class="field"><textarea name="message" placeholder="Message" rows="6"></textarea></div>
-							<ul class="actions">
-								<li><input type="submit" value="Send Message" /></li>
-							</ul>
-						</form>
-						
-					</div>-->
-
-									
 				</div>
 			</section>
 
@@ -171,9 +156,9 @@ Greenville NY 12083</a></p>
 					</header>
 					<p><br>Let us know if you can make it!</p>
 				</div>
-			
+
 			</section>
-  </div> 
+  </div>
 
 </template>
 
@@ -192,7 +177,7 @@ Greenville NY 12083</a></p>
     background-repeat: repeat, no-repeat;
     height:90vh;
   }
-  
+
   #intro:after{
     content:'';
     position: absolute;
@@ -228,7 +213,7 @@ Greenville NY 12083</a></p>
 @media (max-width: 768px){
 	.mobile-img{
 		display: block;
-	} 
+	}
 
 	#two{
 		padding:0px;
@@ -269,7 +254,7 @@ Greenville NY 12083</a></p>
 		background-position: top left, center center;
   }
 
-  
+
   .content{
     /*background: rgba(0,0,0,.4);*/
     z-index:2;

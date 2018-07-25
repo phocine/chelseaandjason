@@ -42,7 +42,7 @@
 		letter-spacing: -0.0325em;
 
 		a {
-			color: inherit;
+			color: #2f6835;
 			text-decoration: none;
 		}
 	}
@@ -51,6 +51,8 @@
 		font-size: 2.25em;
 		line-height: 1.25em;
 		letter-spacing: -0.05em;
+    font-weight: normal;
+    font-family:'Times New Roman', Serif;
 	}
 
 	@include breakpoint(small) {
@@ -70,7 +72,7 @@
 
 	a {
 		@include vendor('transition', 'color #{_duration(transition)} ease-in-out');
-		color: _palette(accent1, bg);
+		color: #2f6835  ;
 	}
 
 	sub {
